@@ -240,3 +240,15 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
+
+
+Animation
+Prefabs
+Sprites
+metadata
+Library
+ProjectSettings
+Temp
+Resources
+Assets/Scripts/Util/SpineUtil
+Assets/_Scenes
